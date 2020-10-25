@@ -651,7 +651,7 @@ input.search-form:hover {
   position: relative;
   overflow: hidden;
   max-height: 730px;
-  background-image: url("/images/design-bg.jpg");
+  background-image: url("../images/design-bg.jpg");
   box-shadow: inset 0 0 0 2000px rgba(255, 248, 252, 0.911);
 }
 
